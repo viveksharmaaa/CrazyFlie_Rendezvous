@@ -1,0 +1,11 @@
+<launch>
+  <rosparam command="load" file="$(find crazy_land)/params.yaml" ns="/crazy_params" />
+
+  <node pkg="crazy_land" type="trajectory_gen" name="trajectory_gen" output="screen">
+    <param name="type" value="circular" />
+    <param name="traj/center_x" value="0.0" />
+    <param name="traj/center_y" value="0.0" />
+    <param name="traj/radius" value="1.0" />
+    <param name="traj/period" value="15.0" />
+  </node>
+</launch>
