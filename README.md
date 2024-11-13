@@ -30,11 +30,11 @@ ROS Nodes:
 
  [Air Ground rendezvous Part 1](https://www.youtube.com/watch?v=-Sh3pG2a6Zc)
 
-[![Video](https://www.generationrobots.com/20343-product_cover/jackal-unmanned-ground-vehicle.jpg)](https://www.youtube.com/watch?v=-Sh3pG2a6Zc)
+[![YouTube](http://i.ytimg.com/vi/-Sh3pG2a6Zc/hqdefault.jpg)](https://www.youtube.com/watch?v=-Sh3pG2a6Zc)
+
 
 [Air-Ground rendezvous Part 2 (Adverserial Input)](https://www.youtube.com/watch?v=0-C5bhJe_ZM)
-[![Video](https://www.bitcraze.io/images/crazyflie2-1/crazyflie_2.1_585px.jpg)](https://www.youtube.com/watch?v=0-C5bhJe_ZM)
-
+[![YouTube](http://i.ytimg.com/vi/0-C5bhJe_ZM/hqdefault.jpg)](https://www.youtube.com/watch?v=0-C5bhJe_ZM)
 
 ## Visualization
 Run the ```visualizer.launch``` to visualize the robot model and position in ```rviz```.
